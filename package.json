@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kay-Uwe <kiwi@franka.dyndns.org> (Kiwi)",
+  "author": "Kay-Uwe (Kiwi) Lorenz <kiwi@franka.dyndns.org>",
   "license": "MIT",
   "dependencies": {
     "bootstrap-kit-express": "^0.1.0",
