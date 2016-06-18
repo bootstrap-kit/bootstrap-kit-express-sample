@@ -9,6 +9,9 @@
   "author": "Kay-Uwe <kiwi@franka.dyndns.org> (Kiwi)",
   "license": "MIT",
   "dependencies": {
+    "bootstrap-kit-express": "^0.1.0",
+    "bootstrap-kit-express-admin-lte": "^0.1.0",
+    "bootstrap-kit-express-elasticsearch": "^0.1.0",
     "coffee-script": "^1.10.0"
   }
 }
